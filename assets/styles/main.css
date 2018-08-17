@@ -6,6 +6,10 @@ p {
   font-size: 0.7em;
 }
 
+ul {
+  list-style-type: none;
+}
+
 #logo {
   display: block;
   margin: 0 auto;
@@ -15,6 +19,10 @@ p {
 
 .center {
   text-align: center;
+}
+
+.bold {
+  font-weight: bold;
 }
 
 .icons {
