@@ -52,7 +52,7 @@ ul {
 
 i {
   font-size: 50px;
-  color: #3b5998;
+  color: #a50512;
 }
 
 .contact {
@@ -76,8 +76,7 @@ body {
 h1 {
   font-size: 24px;
   font-family: Palatino, serif; 
-  font-weight: bold;
-  color: #810110;
+  color: #a50512;
 }
 h2 {
   font-size: 18px;
@@ -96,7 +95,7 @@ h4 {
 h5 {
   font-family: Palatino, serif; 
   font-size: 14px;
-  color:#810110;
+  color:#a50512;
   font-weight:bold;
   text-decoration:underline;
 }
@@ -108,17 +107,17 @@ h6 {
 a:link {
   text-decoration:none; 
   font-weight:bold; 
-  color:#810110;
+  color:#a50512;
 }
 a:visited {
   text-decoration:none; 
   font-weight:bold; 
-  color:#810110;
+  color:#a50512;
 }
 a:active {
   text-decoration:none; 
   font-weight:bold; 
-  color:#810110;
+  color:#a50512;
 }
 a:hover {
   text-decoration:underline; 
